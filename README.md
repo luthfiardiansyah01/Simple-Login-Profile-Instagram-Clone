@@ -1,1 +1,1 @@
-# Simple-Login-Profile-Instagram-Clone
+# simple-login-profile-instagram-clone
